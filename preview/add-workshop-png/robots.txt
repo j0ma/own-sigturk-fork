@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://j0ma.github.io/preview/add-workshop-png/sitemap.xml
+Sitemap: https://sigturk.github.io/sitemap.xml
