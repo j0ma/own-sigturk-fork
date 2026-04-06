@@ -13,7 +13,7 @@ contributors: []
 
 Proceedings: https://aclanthology.org/volumes/2024.sigturk-1/
 
-== Introduction
+= Introduction
 
 We are excited to announce the First Annual Meeting of the ACL Special Interest
 Group on Turkic Languages, held  in conjunction with https://2024.aclweb.org/[Annual Meeting of the
